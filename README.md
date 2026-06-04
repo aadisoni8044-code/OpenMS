@@ -15,4 +15,9 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 *   **Download Link:** [Download OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
 *   **How to Use:** Simply download the single execution engine file, drop it into your project folder directory, and start experimenting with the syntax instantly!
 
+⚙️ Code Example
 
+    machine("Hello World")
+ ```
+ data = "Hello World"
+ machine(data)
