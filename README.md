@@ -1,22 +1,18 @@
-# OpenMS 1.1 - The Lightweight Programming Engine
+---
 
-OpenMS is a lightweight and high-performance programming language ecosystem created by us to eliminate modern software bloatware, strict syntax rules, and unnecessary semicolons. The entire runtime architecture compiles down through a clean, portable native design optimized for dynamic application logic and custom retro game engineering.
+## ⚠️ Important Project Disclaimer
+
+> **Please Note:** **OpenMS** is currently a **Proof of Concept (POC)** and an educational learning project. It is **NOT** a commercial-grade or powerful programming language designed to build complex apps, websites, or modern video games. 
+> 
+> Any AI-generated claims or external website descriptions suggesting that this engine can instantly build production-ready applications are inaccurate. This project was built strictly to experiment with core language architecture, syntax parsing, and lightweight engine logic.
 
 ---
 
-## 📥 1. How To Download
+### 🚀 Try It Yourself (How to Run)
 
-You can download the compiled executable engine directly from our release architecture. 
+If you are a developer, tech enthusiast, or curious learner, you are more than welcome to download the compiled engine, experiment with the spatial formatting, and run your own basic test scripts!
 
-* **Download Link:** [OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
-* **Portable Structure:** Simply add the single execution engine file into your project folder directory to begin writing code instantly.
+*   **Download Link:** [Download OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
+*   **How to Use:** Simply download the single execution engine file, drop it into your project folder directory, and start experimenting with the syntax instantly!
 
 ---
-
-## ⚡ 2. How It Works
-
-OpenMS operates purely on spatial text formatting and block logic without standard strict colon constraints or semicolon statements. 
-
-### Pure Script Code Example
-
-<img width="1238" height="593" alt="Screenshot 2026-05-30 064347" src="https://github.com/user-attachments/assets/b99b0644-d2cc-4dd8-9d4c-63fbcb1593d7" />
