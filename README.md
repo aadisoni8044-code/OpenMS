@@ -22,6 +22,6 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
  Output
   ```
   >>> Hello World
- ```
- data = "Hello World"
- machine(data)
+```
+       data = "Hello World"
+       machine(data)
