@@ -19,8 +19,8 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 
     machine("Hello World")
-    
-    >>>Hello World
+  ```
+  >>> Hello World
  ```
  data = "Hello World"
  machine(data)
