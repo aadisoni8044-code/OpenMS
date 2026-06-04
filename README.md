@@ -17,6 +17,7 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 ⚙️ Code Example
 
+
     machine("Hello World")
  ```
  data = "Hello World"
