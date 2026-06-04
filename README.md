@@ -1,6 +1,6 @@
 
 
-## ⚠️ Important Project Disclaimer
+## 🚀 Important Project Disclaimer
 
  **Please Note:** **OpenMS** is currently a **Proof of Concept (POC)** and an educational learning project. It is **NOT** a commercial-grade or powerful programming language designed to build complex apps, websites, or modern video games. 
  
