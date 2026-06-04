@@ -23,3 +23,7 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 data = "Hello World"
 machine(data)
+```
+🔍 Screen Example
+
+<img width="1485" height="521" alt="Screenshot 2026-06-04 141221" src="https://github.com/user-attachments/assets/13b77b9f-ba5e-416c-b3e6-8a05c6438ff7" />
