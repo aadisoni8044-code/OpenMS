@@ -18,15 +18,12 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 ⚙️ Code Example
 
 
-    machine("Hello World")
- ```
-
-data = "Hello World"
-machine(data)
-```
-🔍 Screen Example
-
 <img width="1485" height="521" alt="Screenshot 2026-06-04 141221" src="https://github.com/user-attachments/assets/13b77b9f-ba5e-416c-b3e6-8a05c6438ff7" />
+
+Operating System
+
+<img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
+
 
 
 
