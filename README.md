@@ -56,9 +56,9 @@ pass
 <img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
 
 
+Example video:
 
-
-
+https://github.com/user-attachments/assets/9af8225f-2886-4fb2-8a0e-6041c06ed59a
 
 
 
