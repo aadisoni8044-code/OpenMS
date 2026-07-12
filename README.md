@@ -56,9 +56,10 @@ pass
 <img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
 
 
-Example photo speedy IDE
+Example photo 
 
-<img width="1912" height="1015" alt="Screenshot 2026-07-07 121457" src="https://github.com/user-attachments/assets/8134f89d-1604-43c1-827b-435eb2e4105f" />
+<img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/65a1fb27-4dee-4838-9954-7250788e3097" />
+
 
 
 
