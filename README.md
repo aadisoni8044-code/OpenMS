@@ -56,7 +56,8 @@ machine(game, game2)
 ```
 OpenMS 1.2
 
-<img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/65a1fb27-4dee-4838-9954-250788e3097" />
+<img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/098598ff-ef39-464c-8f4e-8717e7ec3ed6" />
+
 
 
  
