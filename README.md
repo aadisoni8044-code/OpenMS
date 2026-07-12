@@ -16,7 +16,7 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 *    **Download Link:** [Download OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 1.2 OpenMS IDE
 *   **How to Use:** Simply download the single execution engine file, drop it into your project folder directory, and start experimenting with the syntax instantly!
 
-⚙️ Code Example
+⚙️ OpenMS 1.1
 
 
 <img width="1485" height="521" alt="Screenshot 2026-06-04 141221" src="https://github.com/user-attachments/assets/13b77b9f-ba5e-416c-b3e6-8a05c6438ff7" />
@@ -49,22 +49,21 @@ As shown in our system design, **OpenMS** sits right at the center of cross-plat
 OpenMS simplifies coding with intuitive keywords. Here is how you write a dynamic function and output text in OpenMS:
 
 ```openms
-function greet()
-    machine("Hello from OpenMS Language!")
-pass
+game = box(1000-1000)
+game2 = boody_2D(game)
+machine(game, game2)
+
 ```
+OpenMS 1.2
+
+<img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/65a1fb27-4dee-4838-9954-250788e3097" />
+
+
+ 
+
+
+
 <img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
-
-
-Example photo 
-
-<img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/65a1fb27-4dee-4838-9954-7250788e3097" />
-
-
-
-
-
-
 
 
 
