@@ -14,8 +14,8 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 -------------
 
-
 *   **Download Link:** [Download OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)  1.1 Command line
+-------------
 *    **Download Link:** [Download OpenMS Compiler Engine Tool](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 1.2 OpenMS IDE
 -------------
 *    
