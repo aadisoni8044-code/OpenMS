@@ -14,8 +14,8 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 |OpenMS programming language| Download 
 | :--- |:---
-|**   Command line**  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)  
-|**   OpenMS IDE  **   |[OpenMS 1.2](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 
+|   Command line  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)  
+|   OpenMS IDE     |[OpenMS 1.2](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 
 
 *    
 *   **How to Use:** Simply download the single execution engine file, drop it into your project folder directory, and start experimenting with the syntax instantly!
