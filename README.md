@@ -1,4 +1,5 @@
-# OpenMS
+ <img width="512" height="512" alt="OpenMS" src="https://github.com/user-attachments/assets/4ddc693e-442e-462a-9054-45cc247d6673" /> 
+ # OpenMS
 -----------------------------------
 I have created a new programming language called OpenMS! It has been built using Python and C++ to make it highly powerful and fast.
 
