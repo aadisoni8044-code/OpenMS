@@ -13,7 +13,7 @@
 If you are a developer, tech enthusiast, or curious learner, you are more than welcome to download the compiled engine, experiment with the spatial formatting, and run your own basic test scripts!
 
 ||OpenMS programming language| Download 
-|| :--- |:---
+|| :--- |:--- :---
 ||  Command line  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)  
 || OpenMS IDE     |[OpenMS 1.2](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 
 
