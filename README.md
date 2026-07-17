@@ -14,7 +14,7 @@ If you are a developer, tech enthusiast, or curious learner, you are more than w
 
 |OpenMS programming language| Download 
 |:--- |:--- 
-| Command line  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)<img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
+| Command line  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
 | OpenMS IDE     |[OpenMS 1.2](https://github.com/aadisoni8044-code/OpenMS/blob/main/OpenMS%20IDE.zip) 
   
 
