@@ -53,12 +53,17 @@ As shown in our system design, **OpenMS** sits right at the center of cross-plat
 ## ⚙️ Core Syntax Example
 OpenMS simplifies coding with intuitive keywords. Here is how you write a dynamic function and output text in OpenMS:
 
-```openms
+hello world code OpenMS
+`
+machine("hello")
+`
+``` 3D Box code 
 game = box(1000-1000)
-game2 = boody_2D(game)
+game2 = boody_3D(game)
 machine(game, game2)
-
 ```
+
+
 OpenMS 1.2
 
 <img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/098598ff-ef39-464c-8f4e-8717e7ec3ed6" />
