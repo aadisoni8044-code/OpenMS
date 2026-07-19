@@ -63,8 +63,10 @@ game = box(1000)
 game2 = boody_3D(game)
 machine(game2)
 ```
-
-
+---- 1 line code 3D BOX OpenMS
+``
+machine(boody_3D(box(100)))
+``
 OpenMS 1.2
 
 <img width="1918" height="1022" alt="Screenshot 2026-07-12 190405" src="https://github.com/user-attachments/assets/098598ff-ef39-464c-8f4e-8717e7ec3ed6" />
