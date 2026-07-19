@@ -57,7 +57,8 @@ OpenMS simplifies coding with intuitive keywords. Here is how you write a dynami
 ``` 
 machine("hello")
 ```
-``` 3D Box code 
+3D Box code
+```  
 game = box(1000)
 game2 = boody_3D(game)
 machine(game2)
