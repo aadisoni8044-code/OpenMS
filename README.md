@@ -79,6 +79,7 @@ OpenMS 1.2
 
 <img width="1240" height="702" alt="Screenshot 2026-07-06 220931" src="https://github.com/user-attachments/assets/424cacde-64f8-4c43-9a55-397748a51220" />
 
+<img width="1920" height="1080" alt="OpenMS" src="https://github.com/user-attachments/assets/8dceea4f-2d51-4078-b726-cd49b14357ef" />
 
 
 
